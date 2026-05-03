@@ -1,0 +1,16 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+
+# Local virtual environment
+myenv/
+
+# Generated outputs
+alerts_images/
+
+# Large local media/model artifacts
+*.mp4
+yolov8s.pt
+
+# Optional editor files
+.vscode/
